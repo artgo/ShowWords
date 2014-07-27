@@ -1,7 +1,8 @@
 ShowWords
 =========
 
-Show words and translations on your HDTV from your Google Spreadsheet
+Show words and translations on your HDTV from your Google Spreadsheet.
+How it will look like see http://youtu.be/BtGnvZQzcws
 
 Supported for Ubuntu. Tested on Ubuntu 13.10
 
