@@ -18,7 +18,8 @@ cd ShowWords
 ./install.sh
 ```
 
-Edit your email and password for your Gmail account in file pass.txt
+1. Edit your email and password for your Gmail account in file pass.txt;
+2. Edit your Google Spreadsheet filename in ```spreadsheet_file_name``` variable in file words.py. 
 
 # Run
 ```bash
